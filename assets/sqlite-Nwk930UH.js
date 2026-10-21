@@ -1,0 +1,1 @@
+export{n as setSQL}from"./sqlite-CTw1UH8W.js";
